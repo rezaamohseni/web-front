@@ -1,0 +1,29 @@
+ 
+ 
+@font-face {
+    font-family: myfont;
+    src: url(shabnam/Shabnam.ttf);
+ }
+
+ body{
+    font-family: myfont;
+ }
+
+ #carouselExampleCaptions{
+   margin-top: 5px;
+   margin-bottom: 300px;
+   margin-right: 30px;
+   margin-left: 0px
+     
+ }
+ body{
+   background-color: black;
+ }
+ a{
+  text-decoration: none;
+ }
+ 
+ 
+
+
+ 
